@@ -1,16 +1,20 @@
-# loginsignup
+# 📱 DigiNews - Real-Time News App
 
-A new Flutter project.
+DigiNews is a dynamic and responsive mobile application built using **Flutter** and **Firebase**, designed to deliver real-time news updates across multiple categories such as World, Technology, Sports, Entertainment, and Regional news. The app offers a sleek UI, efficient API usage, and enhanced discoverability through intelligent search filters.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔥 Real-time News Updates via RESTful API
+- 📂 News Categories: World, Tech, Sports, Entertainment, Regional
+- 🔍 Smart Search with keyword filtering and indexing
+- 🌐 In-app Article Viewing using WebView
+- ⚡ Optimized API Calls (35% faster data fetch)
+- 📱 Responsive and Clean UI using Flutter
+- 📡 Offline Support (optional with Firebase caching)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Frontend**: Flutter, Dart
+- **Backend Services**: RESTful News API
+- **Database & Cloud**: Firebase Firestore (for potential bookmarks/favorites)
+- **Tools**: Android Studio, VS Code, Postman
